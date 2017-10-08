@@ -3,15 +3,15 @@
         {
             "name": "Win32",
             "includePath": [
-                "C:\\Users\\hongs4\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.19\\cores\\arduino",
-                "C:\\Users\\hongs4\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\cores\\esp8266"
+                "C:\\Users\\hongs4\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.19\\cores\\arduino"
             ],
             "browse": {
                 "limitSymbolsToIncludedHeaders": false,
                 "path": [
                     "C:\\Users\\hongs4\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.19\\cores\\arduino",
                     "${workspaceRoot}",
-                    "C:\\Users\\hongs4\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.3.0\\cores\\esp8266"
+                    "C:\\Users\\hongs4\\Documents\\Arduino\\libraries",
+                    "C:\\Program Files (x86)\\Arduino\\libraries"
                 ]
             },
             "intelliSenseMode": "msvc-x64"
